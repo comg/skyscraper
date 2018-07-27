@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "crane_loop",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.6666666666666665,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            51,
+            1098
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            17,
+            1043
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            -13,
+            1103
+          ]
+        },
+        {
+          "frame": 2,
+          "value": [
+            24,
+            1311
+          ]
+        },
+        {
+          "frame": 2.6666666666666665,
+          "value": [
+            51,
+            1103
+          ]
+        }
+      ],
+      "rotation": [
+        {
+          "frame": 0,
+          "value": -5
+        },
+        {
+          "frame": 0.5,
+          "value": 0
+        },
+        {
+          "frame": 1,
+          "value": 5
+        },
+        {
+          "frame": 2,
+          "value": 0
+        },
+        {
+          "frame": 2.6666666666666665,
+          "value": -5
+        }
+      ]
+    },
+    "paths": {
+      "string": {
+        "props": {}
+      }
+    }
+  },
+  "events": []
+}
